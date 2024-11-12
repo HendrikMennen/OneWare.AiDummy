@@ -1,8 +1,8 @@
 {
   "category": "Tools",
   "type": "Plugin",
-  "name": "AI Generator",
-  "id": "OneWareAiModule",
+  "name": "One AI Generator",
+  "id": "OneWare.AI",
   "description": "Lets you create powerful AI Models for FPGAs",
   "license": "MIT",
   "iconUrl": "https://raw.githubusercontent.com/HendrikMennen/OneWare.AiDummy/main/Icon.png",
@@ -25,7 +25,7 @@
   "sourceUrl": "https://github.com/one-ware/OneWare.GhdlExtension/releases/download",
   "versions": [
     {
-      "version": "0.1",
+      "version": "0.10.3",
       "targets": [
         {
           "target": "all",
