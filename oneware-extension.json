@@ -1,0 +1,36 @@
+{
+  "category": "Tools",
+  "type": "Plugin",
+  "name": "AI Generator",
+  "id": "OneWareAiModule",
+  "description": "Lets you create powerful AI Models for FPGAs",
+  "license": "MIT",
+  "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/Icon.png",
+  "tabs": [
+    {
+      "title": "Readme",
+      "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/Extension.md"
+    },
+    {
+      "title": "License",
+      "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/License.md"
+    }
+  ],
+  "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/one-ware/OneWare.AI"
+    }
+  ],
+  "sourceUrl": "https://github.com/one-ware/OneWare.AI/releases/download",
+  "versions": [
+    {
+      "version": "0.1",
+      "targets": [
+        {
+          "target": "all"
+        }
+      ]
+    }
+  ]
+}
