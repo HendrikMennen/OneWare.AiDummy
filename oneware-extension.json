@@ -5,15 +5,15 @@
   "id": "OneWareAiModule",
   "description": "Lets you create powerful AI Models for FPGAs",
   "license": "MIT",
-  "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/Icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/HendrikMennen/OneWare.AiDummy/main/Icon.png",
   "tabs": [
     {
       "title": "Readme",
-      "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/Extension.md"
+      "contentUrl": "https://raw.githubusercontent.com/HendrikMennen/OneWare.AiDummy/main/Extension.md"
     },
     {
       "title": "License",
-      "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI/main/License.md"
+      "contentUrl": "https://raw.githubusercontent.com/HendrikMennen/OneWare.AiDummy/main/License.md"
     }
   ],
   "links": [
@@ -22,13 +22,13 @@
       "url": "https://github.com/one-ware/OneWare.AI"
     }
   ],
-  "sourceUrl": "https://github.com/one-ware/OneWare.AI/releases/download",
+  "sourceUrl": "https://github.com/one-ware/OneWare.GhdlExtension/releases/download",
   "versions": [
     {
       "version": "0.1",
       "targets": [
         {
-          "target": "all"
+          "target": "all",
         }
       ]
     }
